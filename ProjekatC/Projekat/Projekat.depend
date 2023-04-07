@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1642962245 source:c:\users\nex\desktop\baze\projekat c\projekat\operacije.c
+	"operacije.h"
+
+1642699654 c:\users\nex\desktop\baze\projekat c\projekat\operacije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"slog.h"
+
+1642692307 c:\users\nex\desktop\baze\projekat c\projekat\slog.h
+
+1642699680 source:c:\users\nex\desktop\baze\projekat c\projekat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije.h"
+
